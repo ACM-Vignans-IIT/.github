@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../profile/images/acm-vignan-banner.png" title="ACM Vignan's IIT" alt="ACM Vignan's IIT"/>
+<img src="https://i.ibb.co/TP4FQRG/acm-vignan-banner-curved.png" title="ACM Vignan's IIT" alt="ACM Vignan's IIT"/>
 
 <h3>Innovate. Inspire. Build. Deploy. Transforming visions into realities.</h3>
 
